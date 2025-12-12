@@ -7,13 +7,13 @@ _By [Best AI for Kids](https://www.bestaiforkids.net/)_
 
 ## Table of Contents
 
-- [Classroom & Assessment](#classroom-and-assessment) (20)
-- [Design & Media](#design-and-media) (112)
-- [Learning & Practice](#learning-and-practice) (290)
-- [Sport & Music](#sport-and-music) (49)
-- [Tech & Coding](#tech-and-coding) (105)
-- [Wellbeing & SEL](#wellbeing-and-sel) (45)
-- [Writing & Language](#writing-and-language) (87)
+- [Classroom & Assessment](#classroom--assessment) (20)
+- [Design & Media](#design--media) (112)
+- [Learning & Practice](#learning--practice) (290)
+- [Sport & Music](#sport--music) (49)
+- [Tech & Coding](#tech--coding) (105)
+- [Wellbeing & SEL](#wellbeing--sel) (45)
+- [Writing & Language](#writing--language) (87)
 
 ---
 
